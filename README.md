@@ -1,45 +1,6 @@
-![](https://user-images.githubusercontent.com/73490201/120222871-81936180-c1f5-11eb-8e63-1b626c17fce5.png)
+Wii Music Melodii Was A Mod for the 2008 Wii Game, Wii Music Started in Early 2021 
+by CheckerTheJester, RainbowKappa, Benjamin Halko, and Gavin Krolczyk
+with later contributions from Paniaal. This and the first version of RiiMajor, another Wii Music mod,
+were created as people learned how to convert .midi files into .brseq files , which are used by Wii Music for it's songs.
 
-Created by CheckerTheJester, RainbowKappa, Benjamin Halko, Gavin Krolczyk, and Paniaal
-
-# Features
-## New Songs!
-There will be four new song packs featured in Melodii!
-
-Some songs that will be featured are:
-
-- Blue Spheres 
-
-- Portal -- Still Alive
-
-- Temporary Secretary
-
-- Owl City -- Good Time
-
-- **And so much more...**
-
-## New Tutes!
-There will be new Tutes / Tetori's joining Melodii!
-
-Featuring characters such as:
-
-- Streetpass Mii Plaza Animals
-
-- Party Phil from Wii Party
-
-- Thomas and Guy-Manuel from Daft Punk
-
-- Sans from Undertale
-
-## New Styles!
-In each of the song packs, there will be new sets of custom styles!
-
-## New Stages!
-In each of the song packs, there will be new sets of custom styles!
-
-# Change Log
-1.0 - Initial Demo Release
-
-1.1 - Fixed textless styles and misc other bugs
-
-1.2 - Fixed Rapper crash and tutorial from being incompletable. 100%ing the game is still untested, advised to use 100% save provided with mod! Replaced 2 songs in order to fix tutorial.
+By 2022 Melodii was rebranded as Wii Music Rii-Arranged and eventually the team abandoned the mod at the start of 2023. The Team eventually got back together but me nor the rest of the team has any official plans to bring the mod back. With this said, this repo serves to archive the old patches we made for the mod and for me , RainbowKappa, to provide any small updates for it, this will be provided as-is as a patch. 
