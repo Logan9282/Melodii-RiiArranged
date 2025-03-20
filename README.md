@@ -1,4 +1,4 @@
-TLDR: This repo serves to archive the old patches we made for the mod before 2024. The mod is still in a semi-active development as of 2024.
+TLDR: This repo serves to archive the old patches we made for the mod before 2024. The mod was released in April 2024.
 
 Wii Music Melodii Was A Mod for the 2008 Wii Game, Wii Music Started in Early 2021 
 by CheckerTheJester, RainbowKappa, Benjamin Halko, and Gavin Krolczyk
