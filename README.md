@@ -5,6 +5,6 @@ by CheckerTheJester, RainbowKappa, Benjamin Halko, and Gavin Krolczyk
 with later contributions from Paniaal. This and the first version of RiiMajor, another Wii Music mod,
 were created as people learned how to convert .midi files into .brseq files , which are used by Wii Music for it's songs.
 
-By 2022 Melodii was rebranded as Wii Music Rii-Arranged and took a hiatus throughout 2023, the team came back in early 2024.
+Since 2022 Melodii was rebranded as Wii Music Rii-Arranged, Officially Releasing in 2024. 
 
 All Downloads are Provided as Riivolution Patches, Use with a legal copy of Wii Music and Riivolution on a Wii/Wii U or Dolphin's Patching Feature.
